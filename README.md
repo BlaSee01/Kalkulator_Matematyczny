@@ -1,4 +1,4 @@
 # Kalkulator Matematyczny
 
-Math calculator.
+Calculator.
 C++
